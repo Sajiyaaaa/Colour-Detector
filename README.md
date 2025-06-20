@@ -32,3 +32,6 @@ Developers
 
 Anyone needing to identify specific colors in images.
 
+
+
+
